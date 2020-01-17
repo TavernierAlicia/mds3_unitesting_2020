@@ -1,1 +1,2 @@
 # mdsb3_functionnaltesting_2020
+[![Coverage Status](https://coveralls.io/repos/github/TavernierAlicia/mds3_unitesting_2020/badge.svg?branch=master)](https://coveralls.io/github/TavernierAlicia/mds3_unitesting_2020?branch=master)
